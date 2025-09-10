@@ -89,7 +89,6 @@ main nav div {
     top: 0;
     background: rgba(168, 166, 166, 0.649);
     backdrop-filter: blur(1px);
-   
     display: none;
 }
 
